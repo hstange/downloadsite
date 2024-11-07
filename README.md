@@ -1,7 +1,6 @@
 # downloadsite
 A static page for single download
 
-#download button
 <!DOCTYPE html>
 <html lang="en">
 
